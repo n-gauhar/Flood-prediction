@@ -24,8 +24,18 @@
 | Period            |                   |
 | Flood?            | 1(Yes)            |
 
+If you utilize our dataset, please use the following citation:
 
-## The references are listed below:
+@inproceedings{gauhar2021prediction,
+  title={Prediction of Flood in Bangladesh using k-Nearest Neighbors Algorithm},
+  author={Gauhar, Noushin and Das, Sunanda and Moury, Khadiza Sarwar},
+  booktitle={2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)},
+  pages={357--361},
+  year={2021},
+  organization={IEEE}
+}
+
+## The dataset was created using the references listed below.
 
 1. https://www.kaggle.com/emonreza/65-years-of-weather-data-bangladesh-preprocessed
 2. https://www.thedailystar.net/news/hundreds-of-villages-flooded
